@@ -2,7 +2,7 @@
   "name": "demo360",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://sbis04.github.io/demo360",
+  "homepage": "https://sbis04.github.io/demo_360",
   "scripts": {
     "start": "node node_modules/react-360/scripts/packager.js",
     "bundle": "node node_modules/react-360/scripts/bundle.js",
